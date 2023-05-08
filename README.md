@@ -7,13 +7,8 @@
 
 - 📫 Como me encontrar **filipecrysthian@gmail.com**
 
- <div align="center">
-  <a href="https://github.com/filipecrysthian">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=filipecrysthian&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipecrysthian&layout=compact&langs_count=7&theme=react"/>
-</div>
-
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=filipecrysthian&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=filipecrysthian&layout=compact&langs_count=7&theme=dark)
 
 <div style="display:flex;justify-content:center;">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt"python">
